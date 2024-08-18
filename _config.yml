@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xiaojun CHEN / Site Title"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Xiaojun CHEN"
+description              : &description "Professor in Institute of Information Engineering, Chinese Academy of Science; Data Security, MPC, AI Security, LLM Security"
+url                      : https://127.0.0.1:4000 #https://aimile-xf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xiaojun CHEN(陈小军)"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chenxiaojun@iie.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
