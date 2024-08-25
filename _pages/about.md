@@ -16,18 +16,30 @@ We accept 2-3 new PhD and Master students every year, and we are also taking on 
 <!--关注的主要研究方向为-->
 **My main areas of research include:**
 
-======
 
-**Secure Multiparty Computation**
+- **Secure Multiparty Computation**
 ------
 
-* Private Preserving Machine Learning(PPML), Private Set Intersection;
-* Secret Sharing, Garbled Circuit, Oblivious Transfer, Homomorphic Encryption
+  * Private Preserving Machine Learning(PPML), Private Set Intersection;
+  * Secret Sharing, Garbled Circuit, Oblivious Transfer, Homomorphic Encryption
 
-**Federated Learning and AI Security**
+- **Federated Learning and AI Security**
 ------
 
-* Federated Learning with Non IID, Graph Federated Learning
-* Adversarial Sample, Backdoor Attacks
-* Secure Aggregation with Defending Byzantin Attack
-* LLM Security
+  * Federated Learning with Non IID, Graph Federated Learning
+  * Adversarial Sample, Backdoor Attacks
+  * Secure Aggregation with Defending Byzantin Attack
+  * LLM Security
+
+
+*Download [CV](/files/CV_cxj.pdf) for more details. *
+
+<style>
+#clustrmaps-widget {
+    width: 5px;  /* Adjust width as needed */
+    height: 5px; /* Adjust height as needed */
+}
+</style>
+
+<div id="clustrmaps-widget"></div>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=txU2Py03qzfuui75PuveRbT4vEKGONC5VQ5iiW6aWNQ&cl=ffffff&w=a"></script>

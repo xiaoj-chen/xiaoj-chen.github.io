@@ -12,10 +12,9 @@ title                    : "Xiaojun CHEN"
 title_separator          : "-"
 name                     : &name "Xiaojun CHEN"
 description              : &description "Professor in Institute of Information Engineering, Chinese Academy of Science; Data Security, MPC, AI Security, LLM Security"
-url                      : https://xiaoj-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : https://127.0.0.1:4000 #https://aimile-xf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xiaoj-chen.github.io"
+repository               : "xiaoj-chen/xiaoj-chen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -192,7 +191,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+#excerpt_separator: "\n\n"
+excerpt_separator: <!--more-->
 incremental: false
 
 

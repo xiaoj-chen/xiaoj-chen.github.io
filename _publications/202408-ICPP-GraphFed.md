@@ -1,5 +1,5 @@
 ---
-title: "Graph Federated Learning with Center Moment Constraints for Node Classification"
+title: "Graph Federated Learning with Center Moment Constraints for Node Classification (ACCEPTED)"
 collection: publications
 category: pubpapers
 permalink: /publication/2024-08-ICPP-GraphFed
@@ -7,7 +7,6 @@ date: 2024-08-12
 venue: 'The 53rd International Conference on Parallel Processing(ICPP)'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://dl.acm.org/doi/pdf/10.1145/3677333.3678159'
-
 ---
 **Authors:** Bisheng Tang, **Xiaojun Chen**, Shaopu Wang, Yuexin Xuan, Zhendong Zhao
 
