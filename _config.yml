@@ -8,14 +8,14 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaojun CHEN / Personal Homepages"
+title                    : "Xiaojun CHEN"
 title_separator          : "-"
 name                     : &name "Xiaojun CHEN"
 description              : &description "Professor in Institute of Information Engineering, Chinese Academy of Science; Data Security, MPC, AI Security, LLM Security"
-url                      : https://xiaoj-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : https://127.0.0.1:4000 #https://aimile-xf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : https://xiaoj-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://127.0.0.1:4000 #https://aimile-xf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "xiaoj-chen.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,8 +26,8 @@ author:
   name             : "Xiaojun CHEN(陈小军)"
   pronouns         : # example: "she/her"  
   bio              : "Data Security, Secure Multiparty Computation, AI Security, LLM Security"
-  location         : "SHUCUN ROAD #19, HAIDIAN District, BEIJING, CHINA"
-  employer         : "Institute of Information Engineering, Chinese Academy of Science"
+  location         : "BEIJING, CHINA"
+  employer         : "IIE CAS"
   uri              : # URL
   email            : "chenxiaojun@iie.ac.cn" 
 
