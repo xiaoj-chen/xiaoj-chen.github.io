@@ -1,0 +1,4 @@
+增量更新与发布
+bundle exec jekyll serve --incremental
+
+

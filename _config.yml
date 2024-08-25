@@ -8,11 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiaojun CHEN / Site Title"
+title                    : "Xiaojun CHEN / Personal Homepages"
 title_separator          : "-"
 name                     : &name "Xiaojun CHEN"
 description              : &description "Professor in Institute of Information Engineering, Chinese Academy of Science; Data Security, MPC, AI Security, LLM Security"
-url                      : https://127.0.0.1:4000 #https://aimile-xf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://xiaoj-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#url                      : https://127.0.0.1:4000 #https://aimile-xf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,31 +25,31 @@ author:
   avatar           : "profile.png"
   name             : "Xiaojun CHEN(陈小军)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Data Security, Secure Multiparty Computation, AI Security, LLM Security"
+  location         : "SHUCUN ROAD #19, HAIDIAN District, BEIJING, CHINA"
+  employer         : "Institute of Information Engineering, Chinese Academy of Science"
   uri              : # URL
   email            : "chenxiaojun@iie.ac.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=UTXtmE4AAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-0362-847X"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -75,12 +76,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  pubpapers:
+    title: 'All Articles(Until 2020)'
+  #manuscripts:
+  #  title: 'Jouneray Aticales()'    
+  #conferences:
+  #  title: 'Conference Papers(Until 2020)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -207,6 +208,7 @@ kramdown:
   enable_coderay: false
 
 
+
 # These settings control the types of collections used by the template
 collections:
   teaching:
@@ -257,7 +259,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: splash
       author_profile: true
       share: true
       comments: true
